@@ -1,0 +1,1 @@
+runnable-hiero.jar -i 3500Chinese.hiero -o 3500Chinese.fnt -b
